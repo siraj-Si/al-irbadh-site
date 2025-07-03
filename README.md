@@ -79,6 +79,10 @@
 </section>
 <h2>Brosur Umroh</h2>
 <p><a href="brosur-umroh.pdf" target="4 Agustus">📄 Klik di sini untuk lihat brosur</a></p>
+<h2>Lihat Brosur Umroh</h2>
+<iframe src="brosur-umroh.pdf" width="100%" height="600px">
+  Brosur tidak bisa ditampilkan. <a href="brosur-umroh.pdf">Download di sini</a>.
+</iframe>
 
 <section id="tentang">
   <h2>Tentang Kami</h2>
