@@ -39,7 +39,7 @@
 
 <section id="beranda">
   <h2>Selamat Datang!</h2>
-  <p>Al-Irbadh adalah biro perjalanan resmi (PPIU SK 28122200370150001) yang menyelenggarakan umroh dengan pelayanan profesional dan perjalanan nyaman. Diantar langsung oleh <strong>Sirajuddin DL</strong>.</p>
+  <p>Al-Irbadh adalah biro perjalanan resmi (PPIU SK 28122200370150001) yang menyelenggarakan umroh dengan pelayanan profesional, perjalanan nyaman dan pelaksanaan sesuai sunnah . Diantar langsung oleh <strong>Ouwner atau Ustadz berpengalaman</strong>.</p>
   <p><a href="https://wa.me/6285255705548" class="button-wa">Hubungi Kami via WhatsApp</a></p>
 </section>
 
@@ -80,7 +80,7 @@
 
 <section id="tentang">
   <h2>Tentang Kami</h2>
-  <p><strong>Al‑Irbadh Tour & Travel</strong> resmi terdaftar PPIU SK 28122200370150001. Kami memiliki kantor pusat di Makassar serta cabang di Bulukumba.</p>
+  <p><strong>Al‑Irbadh Tour & Travel</strong> resmi terdaftar PPIU SK 28122200370150001. Kami memiliki kantor pusat di Bulukumba serta cabang di Makassar.</p>
   <p>Pengelola: <strong>Sirajuddin DL</strong><br>
   Nama resmi biro: Al‑Irbadh Group</p>
   <h3>Lokasi Kantor</h3>
@@ -93,7 +93,7 @@
 <section id="kontak">
   <h2>Kontak &amp; Pendaftaran</h2>
   <p class="kontak">📞 <a href="https://wa.me/6285255705548">0852‑5570‑5548 (Sirajuddin DL – WA/Telegram)</a></p>
-  <p>📧 Email: <em>belum ada</em></p>
+  <p>📧 Email: <em>siraj.mesin@gmail.com</em></p>
 </section>
 
 <footer>
