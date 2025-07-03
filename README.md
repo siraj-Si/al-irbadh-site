@@ -39,7 +39,7 @@
 
 <section id="beranda">
   <h2>Selamat Datang!</h2>
-  <p>Al-Irbadh adalah biro perjalanan resmi (PPIU SK 28122200370150001) yang menyelenggarakan umroh dengan pelayanan profesional, perjalanan nyaman dan pelaksanaan sesuai sunnah . Diantar langsung oleh <strong>Ouwner atau Ustadz berpengalaman</strong>.</p>
+  <p>Al-Irbadh adalah biro perjalanan resmi (PPIU SK 28122200370150001) yang menyelenggarakan umroh dengan pelayanan profesional, perjalanan nyaman dan pelaksanaan sesuai sunnah . Diantar langsung oleh <strong>Owner atau Ustadz berpengalaman</strong>.</p>
   <p><a href="https://wa.me/6285255705548" class="button-wa">Hubungi Kami via WhatsApp</a></p>
 </section>
 
@@ -77,6 +77,8 @@
     </div>
   </div>
 </section>
+<h2>Brosur Umroh</h2>
+<p><a href="brosur-umroh.pdf" target="4 Agustus">📄 Klik di sini untuk lihat brosur</a></p>
 
 <section id="tentang">
   <h2>Tentang Kami</h2>
